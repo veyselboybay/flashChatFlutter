@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442312905024",
+    "project_id": "flashchatangelayu",
+    "storage_bucket": "flashchatangelayu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442312905024:android:a071fc80ca68911e89aaa5",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442312905024-eg6c7ho03jcdf0083dfdce2a5dpeoquv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYtpMHHt3QQwsz3FaT4ScuetP_FcyWGMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442312905024-eg6c7ho03jcdf0083dfdce2a5dpeoquv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
